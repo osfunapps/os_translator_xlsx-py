@@ -6,7 +6,7 @@ This module aim is to translate a string to a desired languages and save the out
 ## Installation
 Install via pip:
 
-    pip install os_translator_xlsx
+    pip install os-translator-xlsx
 
 ## Usage       
     
