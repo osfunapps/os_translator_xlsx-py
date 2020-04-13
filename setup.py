@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name='os_translator_xlsx',
     packages=['os_translator_xlsx'],
-    version='1.00',
+    version='1.0t',
     license='MIT',
     description='# this module aim is to translate a string to a desired languages and save the output in a nice excel file',
     author='Oz Shabat',

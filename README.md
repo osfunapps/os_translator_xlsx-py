@@ -10,9 +10,9 @@ Install via pip:
 
 ## Usage       
     
-    import os_translator_xlsx.ToXlsxTranslator as excelTranslator
+    import os_translator_xlsx.to_xlsx_translator as excel_translator
     
-    excelTranslator.translate_to_excel('output/path/file.xlsx',
+    excel_translator.translate_to_excel('output/path/file.xlsx',
                                        '/path/to/service/account/.json',
                                        'firebaseprojectId',
                                        'en-US',
