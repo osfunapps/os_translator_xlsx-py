@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name='os_translator_xlsx',
     packages=['os_translator_xlsx'],
-    version='1.0t',
+    version='1.02',
     license='MIT',
     description='# this module aim is to translate a string to a desired languages and save the output in a nice excel file',
     author='Oz Shabat',
@@ -22,6 +22,6 @@ setup(
         'Programming Language :: Python :: 3',  # Specify which pyhton versions that you want to support
         'Programming Language :: Python :: 3.4',
         'Programming Language :: Python :: 3.5',
-        'Programming Language :: Python :: 3.6',
+        'Programming Language :: Python :: 3.9',
     ],
 )
